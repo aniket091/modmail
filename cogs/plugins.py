@@ -88,12 +88,8 @@ class Plugin:
 
 class Plugins(commands.Cog):
     """
-    Plugins expand Modmail functionality by allowing third-party addons.
-
-    These addons could have a range of features from moderation to simply
-    making your life as a moderator easier!
-    Learn how to create a plugin yourself here:
-    https://github.com/kyb3r/modmail/wiki/Plugins
+    plugins for modmail are here:
+    https://github.com/aniket091/modmail-plugins
     """
 
     def __init__(self, bot):
